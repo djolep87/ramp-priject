@@ -11,7 +11,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-1.jpg" alt="Full Image" class="full-image" data-mask="40">
+                        <img src="/images/bg-1.jpg" alt="Full Image" class="full-image" data-mask="40">
 
                         <div class="slide-content row">
                             <div class="col-12 d-flex justify-content-start inner">
@@ -37,7 +37,7 @@
                     <div class="swiper-slide slide-center">
 
                         <!-- Media -->
-                        <img src="assets/images/bg-2.jpg" alt="Full Image" class="full-image" data-mask="40">  
+                        <img src="/images/bg-2.jpg" alt="Full Image" class="full-image" data-mask="40">  
 
                         <div class="slide-content row">
                             <div class="col-12 d-flex justify-content-start justify-content-md-center inner">
