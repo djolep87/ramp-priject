@@ -50,7 +50,7 @@
                                     <!-- Action -->
                                     <div data-aos="fade-up" data-aos-delay="1200" class="buttons">
                                         <div class="d-sm-inline-flex">
-                                            <a href="#contact" class="smooth-anchor mt-4 btn primary-button">GET IN TOUCH</a>
+                                            {{-- <a href="#contact" class="smooth-anchor mt-4 btn primary-button">GET IN TOUCH</a> --}}
                                             <a href="#video" class="smooth-anchor ml-sm-4 mt-4 btn outline-button">READ MORE</a>
                                         </div>
                                     </div>
